@@ -1,3 +1,16 @@
+# Overview
+This is a simple To-Do List web app that allows users to manage their tasks efficiently. Users can add tasks, delete tasks, and reorder tasks to set priorities.
+
+# Features
+Add Task: Users can enter a task and add it to the list by clicking the Add button.
+
+- Delete Task: Each task has a Delete button to remove it from the list.
+
+- Move Up: An Up button lets users move a task higher in the list to increase its priority.
+
+- Move Down: A Down button lets users move a task lower in the list to decrease its priority.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
